@@ -1,11 +1,11 @@
 # Site settings
 author: Jose Pehovaz-Diez
-title: 
+title: // Clear for takeoff //
 header-img: img/home-bg.png
 email: jose.pehovazdiez@gmail.com
 copyright_name: Jose Pehovaz-Diez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey into my unknown.  Albeit, an interesting unknown.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: cavu757
 github_username:  cavu757
