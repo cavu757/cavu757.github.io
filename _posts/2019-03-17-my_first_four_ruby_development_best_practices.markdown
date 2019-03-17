@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "My first four ruby development best practices"
+title:      "My First Four Ruby Development Best Practices"
 date:       2019-03-17 10:49:04 -0400
 permalink:  my_first_four_ruby_development_best_practices
 ---
