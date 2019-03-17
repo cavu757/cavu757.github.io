@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Software development and a bumblebee?"
-date:       2019-02-28 04:45:11 +0000
+title:      "Software Development And A Bumblebee?"
+date:       2019-02-27 23:45:12 -0500
 permalink:  software_development_and_a_bumblebee
 ---
 
