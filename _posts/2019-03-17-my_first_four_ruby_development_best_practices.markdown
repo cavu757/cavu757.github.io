@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My first four ruby development best practices"
-date:       2019-03-17 14:49:03 +0000
+date:       2019-03-17 10:49:04 -0400
 permalink:  my_first_four_ruby_development_best_practices
 ---
 
@@ -10,6 +10,6 @@ So I have reached day 34 of my software development journey as a part-time stude
 
 Blog posted on Medium - below is the story link for more:
 
-https://medium.com/@jose.pehovazdiez/my-first-four-ruby-development-best-practices-4304d5346bab
-
+[https://medium.com/@jose.pehovazdiez/my-first-four-ruby-development-best-practices-4304d5346bab
+](http://medium.com/@jose.pehovazdiez/my-first-four-ruby-development-best-practices-4304d5346bab)
 
