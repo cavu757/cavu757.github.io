@@ -11,6 +11,6 @@ The project was a content manager system (CMS) for lean business plans. You can 
 
 I will repeat myself (from the CLI project)… You CAN do this. But this time, what I learned is that life and time waits for no one.
 
-[https://medium.com/@jose.pehovazdiez/my-sinatra-project-and-when-life-gets-in-the-way-f593d65a462e?source=friends_link&sk=512ab50ec7cca1f71bbfb5b48c36d013](https://medium.com/@jose.pehovazdiez/my-sinatra-project-and-when-life-gets-in-the-way-f593d65a462e?source=friends_link&sk=512ab50ec7cca1f71bbfb5b48c36d013)
+Visit the following link to read the full blog post. [https://medium.com/@jose.pehovazdiez/my-sinatra-project-and-when-life-gets-in-the-way-f593d65a462e?source=friends_link&sk=512ab50ec7cca1f71bbfb5b48c36d013](https://medium.com/@jose.pehovazdiez/my-sinatra-project-and-when-life-gets-in-the-way-f593d65a462e?source=friends_link&sk=512ab50ec7cca1f71bbfb5b48c36d013)
 
 ![](https://cdn-images-1.medium.com/max/800/1*iOq2PqUmRry3Z5Cr24rd-w.jpeg)
